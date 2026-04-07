@@ -69,8 +69,9 @@ https://react-wall-calendar-yxnd.vercel.app/
 
 ## 📸 Screenshots
 
-![Desktop View Placeholder](https://via.placeholder.com/800x450?text=Desktop+View+Screenshot)
-*(Replace with an actual screenshot of the desktop interface)*
+<img width="1512" height="982" alt="Screenshot 2026-04-07 at 23 59 36" src="https://github.com/user-attachments/assets/babd08a6-f460-4d0a-8ebb-39359ed13ae8" />
+
+
 
 ![Mobile View Placeholder](https://via.placeholder.com/400x700?text=Mobile+View+Screenshot)
 *(Replace with an actual screenshot of the mobile interface)*
