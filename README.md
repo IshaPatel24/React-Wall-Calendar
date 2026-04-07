@@ -68,13 +68,14 @@ https://react-wall-calendar-yxnd.vercel.app/
 *   **Library Integrations**: Selected `date-fns` for its extremely modular, tree-shakeable structure rather than monolithic monolithic libraries, keeping bundle sizes low and performance snappy.
 
 ## 📸 Screenshots
-
+Web View Placeholder
 <img width="1512" height="982" alt="Screenshot 2026-04-07 at 23 59 36" src="https://github.com/user-attachments/assets/babd08a6-f460-4d0a-8ebb-39359ed13ae8" />
 
 
 
-![Mobile View Placeholder](https://via.placeholder.com/400x700?text=Mobile+View+Screenshot)
-*(Replace with an actual screenshot of the mobile interface)*
+Mobile View Placeholder
+<img width="1080" height="3920" alt="image" src="https://github.com/user-attachments/assets/fa92c1c1-5156-4e26-81e5-a2a386771f84" />
+
 
 ## 🔮 Future Improvements
 
